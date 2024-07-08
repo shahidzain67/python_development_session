@@ -8,7 +8,7 @@
 
 - Add Extensions
 	- Jupyter
-	- Python
+	- Python: https://www.python.org/downloads/
 
 ### Github
 - Create new account
